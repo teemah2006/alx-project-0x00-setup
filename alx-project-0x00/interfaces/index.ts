@@ -1,4 +1,4 @@
-export interface pillProps {
+export interface PillProps {
     title: string
 }
 
